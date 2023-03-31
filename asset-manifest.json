@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/praba-web/static/css/main.f7e5c4f5.css",
-    "main.js": "/praba-web/static/js/main.d9b0515e.js",
+    "main.js": "/praba-web/static/js/main.5e8d130c.js",
     "static/media/one.jpg": "/praba-web/static/media/one.2c33dc796564e9b5675b.jpg",
     "index.html": "/praba-web/index.html",
     "main.f7e5c4f5.css.map": "/praba-web/static/css/main.f7e5c4f5.css.map",
-    "main.d9b0515e.js.map": "/praba-web/static/js/main.d9b0515e.js.map"
+    "main.5e8d130c.js.map": "/praba-web/static/js/main.5e8d130c.js.map"
   },
   "entrypoints": [
     "static/css/main.f7e5c4f5.css",
-    "static/js/main.d9b0515e.js"
+    "static/js/main.5e8d130c.js"
   ]
 }
